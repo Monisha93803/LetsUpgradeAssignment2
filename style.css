@@ -1,0 +1,42 @@
+/*external CSS*/
+
+pre {
+    background-color: rgb(112, 195, 250);
+    padding: 20px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+p {
+    background-color: rgb(132, 0, 255);
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    color: yellow;
+}
+
+body {
+    background-image: url("images/story22.jpg");
+}
+
+.head {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    color: white;
+    background-color: rgb(127, 39, 243);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.thx {
+    color: yellow;
+    background-color: palevioletred;
+}
+
+u {
+    color: red;
+}
